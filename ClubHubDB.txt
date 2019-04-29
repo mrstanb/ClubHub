@@ -1,0 +1,7 @@
+User Schema [Authentication & Authorization] - email, password, first name, last name, gender, age, visited clubs (as array or smth similar), wanna go list (as array or something similar)
+
+Club Schema - location (lng, lat), genre of music (as array or smth similar), events (as array or smth similar), working hours
+
+Club Owner Schema [Authentication & Authorization] - email, password, clubs (as array or smth similar)
+
+Events - date time, information, entry price
